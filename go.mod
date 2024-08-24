@@ -1,4 +1,4 @@
-module github.com/samwherever/hugo-gall/
+module github.com/samwherever/hugo-gall
 
 go 1.19
 
